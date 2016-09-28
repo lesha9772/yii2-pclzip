@@ -7,7 +7,7 @@ use \yii\base\Widget;
 /**
  * This is just an example.
  */
-class PclZipWidget extends Widget
+class PclZip extends Widget
 {
 
   public $compressedData = array();
