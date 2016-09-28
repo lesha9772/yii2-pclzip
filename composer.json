@@ -1,0 +1,21 @@
+{
+    "name": "lesha9772/yii2-pclzip",
+    "description": "yii2-PclZip  extension based on PclZip library that creates and manage ZIP formatted archives",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," PclZip"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "lesha9772@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lesha977\\PclZip\\": ""
+        }
+    }
+}
